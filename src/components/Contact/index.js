@@ -218,7 +218,7 @@ const Contact = ({ setOpen, setAlert }) => {
     }
 
     return (
-        <Container>
+        <Container id="contact">
             <Wrapper>
                 <Title>Contact</Title>
                 <Desc>

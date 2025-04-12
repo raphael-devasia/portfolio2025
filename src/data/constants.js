@@ -2,13 +2,12 @@ export const Bio = {
     name: "Jino Devasia",
     roles: ["Full Stack Developer", "Backend Engineer", "Software Developer"],
     description:
-        "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-    github: "https://github.com/rishavchanda",
-    resume: "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-    linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    twitter: "https://twitter.com/RishavChanda",
-    insta: "https://www.instagram.com/rishav_chanda/",
-    facebook: "https://www.facebook.com/rishav.chanda.165/",
+        "I am a dedicated Full-Stack Software Engineer with a unique background as a former tool and die maker, bringing precision and problem-solving to software development. Passionate about embracing new challenges, I transitioned to tech with a commitment to learning and delivering high-quality, scalable solutions. With a growth mindset and enthusiasm for innovation, I’m driven to create impactful applications and contribute meaningfully to every project.",
+    github: "https://github.com/raphael-devasia",
+    resume: "https://drive.google.com/file/d/1FTyIqO4PoDB_H22J7xnrPSEvJKTdymWd/view?usp=sharing",
+    linkedin: "https://www.linkedin.com/in/jinodevasia/",
+
+    leetcode: "https://leetcode.com/u/jinodevasia/",
 }
 
 export const skills = [
@@ -53,7 +52,7 @@ export const skills = [
             },
             {
                 name: "Tailwind CSS",
-                image: "https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg",
+                image: "https://image.pngaaa.com/779/6447779-middle.png",
             },
             {
                 name: "TypeScript",
@@ -94,11 +93,11 @@ export const skills = [
             },
             {
                 name: "gRPC",
-                image: "https://grpc.io/img/grpc_logo.png",
+                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtgakfOXSN05s2chm6ZJOm7msQXYo4HYWEUA&s",
             },
             {
                 name: "Microservices",
-                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Microservices.svg/1200px-Microservices.svg.png",
+                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYRctyq3crsrfqtPzP0ac_wfT40-SYkJ0GA&s",
             },
             {
                 name: "NestJS",
@@ -106,11 +105,11 @@ export const skills = [
             },
             {
                 name: "Prisma",
-                image: "https://raw.githubusercontent.com/prisma/prisma/main/.github/logo-dark.png",
+                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEXVZmo0Z-iI-UD1_wQpIdpk0plseGjNTcdYAc4Z__cZl26aFT3H575ySjxzmkumeMWA&usqp=CAU",
             },
             {
                 name: "RabbitMQ",
-                image: "https://www.rabbitmq.com/img/rabbitmq_logo.svg",
+                image: "https://pbs.twimg.com/profile_images/1223261138059780097/eH73w5lN_400x400.jpg",
             },
         ],
     },
@@ -524,8 +523,8 @@ export const projects = [
             "Postman",
         ],
         category: "Business & Productivity",
-        github: "https://github.com/yourusername/logistics-b2b",
-        webapp: "https://logistics-b2b-demo.com",
+        source: "https://github.com/yourusername/logistics-b2b",
+        url: "https://logistics-b2b-demo.com",
     },
     {
         id: 1,
