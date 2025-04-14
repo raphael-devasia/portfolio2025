@@ -4,7 +4,7 @@ export const Bio = {
     description:
         "I am a dedicated Full-Stack Software Engineer with a unique background as a former tool and die maker, bringing precision and problem-solving to software development. Passionate about embracing new challenges, I transitioned to tech with a commitment to learning and delivering high-quality, scalable solutions. With a growth mindset and enthusiasm for innovation, I’m driven to create impactful applications and contribute meaningfully to every project.",
     github: "https://github.com/raphael-devasia",
-    resume: "https://drive.google.com/file/d/1FTyIqO4PoDB_H22J7xnrPSEvJKTdymWd/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1f9ZZ99S0XxF4mppPGOdMWjuJDKz41byT/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/jinodevasia/",
 
     leetcode: "https://leetcode.com/u/jinodevasia/",
