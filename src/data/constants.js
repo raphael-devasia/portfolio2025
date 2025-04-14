@@ -268,16 +268,16 @@ export const experiences = [
 ]
 
 export const education = [
-    {
-        id: 0,
-        img: "https://yt3.googleusercontent.com/KjbsQTeG_Pcwk8mf-M_oYe5VoZaxwvRv57CPTFGFazRTfuvabRvXpDIxcTCKE721yOV-7m0Q=s900-c-k-c0x00ffffff-no-rj",
-        school: "Brototype",
-        date: "Mar 2024 - Present",
-        grade: "",
-        desc: "Currently attending an intensive MEAN Stack Development Bootcamp, mastering MongoDB, Express.js, Angular, and Node.js. Building full-stack applications, including e-commerce and logistics platforms, to enhance expertise in RESTful APIs, microservices, and responsive UI design. Collaborating on real-world projects to apply TypeScript, Git, and deployment skills.",
-        degree: "MEAN Stack Development Bootcamp",
-        address: "Calicut, Kerala, India",
-    },
+    // {
+    //     id: 0,
+    //     img: "https://yt3.googleusercontent.com/KjbsQTeG_Pcwk8mf-M_oYe5VoZaxwvRv57CPTFGFazRTfuvabRvXpDIxcTCKE721yOV-7m0Q=s900-c-k-c0x00ffffff-no-rj",
+    //     school: "Brototype",
+    //     date: "Mar 2024 - Present",
+    //     grade: "",
+    //     desc: "Currently attending an intensive MEAN Stack Development Bootcamp, mastering MongoDB, Express.js, Angular, and Node.js. Building full-stack applications, including e-commerce and logistics platforms, to enhance expertise in RESTful APIs, microservices, and responsive UI design. Collaborating on real-world projects to apply TypeScript, Git, and deployment skills.",
+    //     degree: "MEAN Stack Development Bootcamp",
+    //     address: "Calicut, Kerala, India",
+    // },
     {
         id: 1,
         img: "https://upload.wikimedia.org/wikipedia/en/e/e5/Mizoram_University_logo.png",
