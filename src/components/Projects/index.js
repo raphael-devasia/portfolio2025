@@ -21,8 +21,9 @@ const Projects = ({openModal,setOpenModal}) => {
           <Wrapper>
               <Title>Projects</Title>
               <Desc>
-                  I have worked on a wide range of projects. From Business & Productivitys to
-                  android apps. Here are some of my projects.
+                  I have worked on a wide range of projects, including
+                  e-commerce platforms, static websites, and business web
+                  applications. Here are some of my projects.
               </Desc>
               <ToggleButtonGroup>
                   {toggle === "all" ? (
@@ -59,8 +60,7 @@ const Projects = ({openModal,setOpenModal}) => {
                       </ToggleButton>
                   )}
                   <Divider />
-                  
-                  
+
                   {toggle === "E-Commerce" ? (
                       <ToggleButton
                           active

@@ -167,6 +167,7 @@ export const experiences = [
         desc: "Developed a logistics platform using Angular, Node.js, TypeScript, , delivering features rapidly with weekly expert reviews. Implemented microservices using Docker and AWS EKS, enhancing scalability and automation, and significantly improving product strategy by enabling rapid iterations typical of a start-up environment. Optimized the frontend with CSS for a responsive UI and integrated Razorpay for payments, demonstrating a strong understanding of product requirements and industry standards.",
         skills: [
             "React",
+            "Angular",
             "TypeScript",
             "Tailwind CSS",
             "Node.js",
