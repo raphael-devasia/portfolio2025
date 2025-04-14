@@ -163,7 +163,7 @@ export const experiences = [
         img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxjKU2n2IplfzL8Ixd_fzBqy3lRasLBNcXug&s",
         role: "Full Stack Developer",
         company: "Schnell Logistics Solutions Ltd",
-        date: "March 2023 - Present",
+        date: "September 2022 - March 2024 ",
         desc: "Developed and maintained a logistics platform for managing cross-border transportation (Canada-USA) using React, TypeScript, and Node.js with NestJS. Implemented real-time tracking with Google Maps API and WebSockets, optimized routes to reduce fuel costs by 10%, and deployed scalable microservices with Docker and Kubernetes. Integrated RabbitMQ for driver-dispatcher communication and Prisma with PostgreSQL for freight billing, ensuring compliance with CBSA/CBP regulations. Collaborated with operations teams to enhance efficiency by 20%.",
         skills: [
             "React",
@@ -292,7 +292,7 @@ export const education = [
         id: 2,
         img: "https://www.eduopinions.com/wp-content/uploads/2018/09/SheridanCollege.logo_.jpg",
         school: "Sheridan College",
-        date: "Sep 2015 - Jun 2017",
+        date: "Sep 2020 - Aug 2022",
         grade: "",
         desc: "Earned a diploma in Computer Systems Technician – Software Engineering, focusing on programming, software development, and system administration. Studied Java, database management, and web development, building a foundation for full-stack development with hands-on projects like inventory and user management systems.",
         degree: "Diploma in Computer Systems Technician – Software Engineering",
